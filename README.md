@@ -6,7 +6,7 @@ Link para a documentação: [https://app.swaggerhub.com/apis-docs/RODRIGOFEITOSA
 
 ## Pacote entity
 
-- ### **User.java**
+- ### **User.java**  
 
  -   Cria a tabela tb_user
 
