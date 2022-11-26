@@ -83,7 +83,7 @@ Link para a documentação: [https://app.swaggerhub.com/apis-docs/RODRIGOFEITOSA
  - Contém os enpoints para o funcionamento da API
    _________________
 
- - Endpoints em ordem de uso:
+ -  Endpoints em ordem de uso:
 
 	1)@PostMapping("/register")          -> Registra um usuário
         2) @GetMapping("/verifyRegistration") -> Verifica o registro
